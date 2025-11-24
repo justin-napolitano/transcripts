@@ -20,6 +20,12 @@ seoSecondaryKeywords:
   - pdf documents
   - digital signatures
 seoOptimized: true
+topicFamily: latex
+topicFamilyConfidence: 0.7
+topicFamilyNotes: >-
+  The post focuses on PDFs and digital signatures for document archival, which aligns best with
+  document preparation and management within the 'Latex' family that involves professional document
+  workflows. No other family better fits this focus on archived signed documents.
 ---
 
 # Technical Overview: transcripts Repository
@@ -55,3 +61,4 @@ For developers or engineers revisiting this project, the key takeaway is that th
 ## Summary
 
 This repository exemplifies a minimal document archival approach using PDFs with embedded digital signatures. Future work would benefit from adding layers of tooling to improve accessibility and verification of the transcript contents.
+
