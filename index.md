@@ -1,12 +1,26 @@
 ---
-slug: "github-transcripts"
-title: "transcripts"
-repo: "justin-napolitano/transcripts"
-githubUrl: "https://github.com/justin-napolitano/transcripts"
-generatedAt: "2025-11-23T09:47:52.033831Z"
-source: "github-auto"
+slug: github-transcripts
+title: Transcripts Repository with Digitally Signed PDF Archives
+repo: justin-napolitano/transcripts
+githubUrl: https://github.com/justin-napolitano/transcripts
+generatedAt: '2025-11-23T09:47:52.033831Z'
+source: github-auto
+summary: >-
+  Overview of a repository storing digitally signed PDF transcripts, highlighting document integrity
+  and archival structure.
+tags:
+  - pdf
+  - document-archive
+  - digital-signatures
+  - transcripts
+  - document-management
+seoPrimaryKeyword: digitally signed pdf transcripts
+seoSecondaryKeywords:
+  - document archive
+  - pdf documents
+  - digital signatures
+seoOptimized: true
 ---
-
 
 # Technical Overview: transcripts Repository
 
