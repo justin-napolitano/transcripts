@@ -1,18 +1,29 @@
 ---
 slug: github-transcripts
 id: github-transcripts
-title: transcripts
+title: Managing PDF Transcripts with GitHub Repository
 repo: justin-napolitano/transcripts
 githubUrl: https://github.com/justin-napolitano/transcripts
 generatedAt: '2025-11-24T21:36:42.148Z'
 source: github-auto
 summary: >-
-  A repository containing PDF transcript documents. This project appears to
-  store or manage transcript files, likely for archival or reference purposes.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  This project provides a simple structure for storing and accessing PDF
+  transcript documents.
+tags:
+  - pdf
+  - transcripts
+  - git
+  - repository
+  - file storage
+  - metadata
+  - document management
+seoPrimaryKeyword: github transcript storage
+seoSecondaryKeywords:
+  - pdf document management
+  - transcript file structure
+  - git repository for transcripts
+  - metadata indexing for transcripts
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
