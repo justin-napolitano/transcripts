@@ -6,9 +6,7 @@ repo: justin-napolitano/transcripts
 githubUrl: https://github.com/justin-napolitano/transcripts
 generatedAt: '2025-11-24T21:36:42.148Z'
 source: github-auto
-summary: >-
-  This project provides a simple structure for storing and accessing PDF
-  transcript documents.
+summary: This project provides a simple structure for storing and accessing PDF transcript documents.
 tags:
   - pdf
   - transcripts
@@ -24,8 +22,8 @@ seoSecondaryKeywords:
   - git repository for transcripts
   - metadata indexing for transcripts
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: devtools
+topicFamilyConfidence: 0.7
 kind: project
 entryLayout: project
 showInProjects: true
@@ -74,3 +72,4 @@ transcripts/
 ---
 
 *Note: This README is based on limited information and assumes the repository is meant for storing transcript PDF files.*
+
