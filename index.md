@@ -1,31 +1,41 @@
 ---
 slug: github-transcripts
-title: Transcripts Repository with Digitally Signed PDF Archives
+title: Technical Overview of the Transcripts Repository
 repo: justin-napolitano/transcripts
 githubUrl: https://github.com/justin-napolitano/transcripts
 generatedAt: '2025-11-23T09:47:52.033831Z'
 source: github-auto
 summary: >-
-  Overview of a repository storing digitally signed PDF transcripts, highlighting document integrity
-  and archival structure.
+  Explore the transcripts repository for storing PDF documents, focusing on
+  organization, integrity, and potential enhancements.
 tags:
   - pdf
   - document-archive
   - digital-signatures
   - transcripts
   - document-management
-seoPrimaryKeyword: digitally signed pdf transcripts
-seoSecondaryKeywords:
-  - document archive
-  - pdf documents
+  - document storage
   - digital signatures
+  - metadata extraction
+  - indexing
+  - repository management
+seoPrimaryKeyword: transcripts repository overview
+seoSecondaryKeywords:
+  - PDF document management
+  - digital signature verification
+  - document archival solutions
+  - repository enhancements
+  - transcript storage best practices
 seoOptimized: true
 topicFamily: latex
 topicFamilyConfidence: 0.7
 topicFamilyNotes: >-
-  The post focuses on PDFs and digital signatures for document archival, which aligns best with
-  document preparation and management within the 'Latex' family that involves professional document
-  workflows. No other family better fits this focus on archived signed documents.
+  The post focuses on PDFs and digital signatures for document archival, which
+  aligns best with document preparation and management within the 'Latex' family
+  that involves professional document workflows. No other family better fits
+  this focus on archived signed documents.
+kind: project
+id: github-transcripts
 ---
 
 # Technical Overview: transcripts Repository
